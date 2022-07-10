@@ -1,15 +1,10 @@
-﻿ int[] a = RandomArray();
- System.Console.WriteLine(a);
- TossCoin();
-
- double  result = TossMultipleCoins(5);
- System.Console.WriteLine(result);
-
+﻿
  static int[] RandomArray(){
     int [] newarr = new int [9];
     Random rand = new Random();
     for (int i = 0; i < newarr.Length; i++){
         newarr[i] = rand.Next(5, 25);
+        System.Console.WriteLine(arr[i]+ " this is "+ i + "index");
     }
     int max = newarr[0];
     int min = newarr[0];
@@ -59,12 +54,19 @@ static double TossMultipleCoins(int num){
     double result = (double) count/num;   
 return result; 
 }
-
+static List<string> names()
+{
+    
  List <string> names = new List<string> () {"Todd", "Tiffany", "Charlie", "Geneva", "Sydney"};
- List <string> newNames = new List<string> ();
+ List <string> newNames = new List<string> (5);
  foreach(string name in names){
     if (name.Length>5){
         newNames.Add(name);
     }
  }
+ return newNames;
+}
  
+
+
+

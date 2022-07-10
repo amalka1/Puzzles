@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Point\\Desktop\\cs2022\\Puzzles\\Puzzles.csproj": {}
+    "C:\\Users\\Point\\Desktop\\CS2022\\Puzzles\\Puzzles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Point\\Desktop\\cs2022\\Puzzles\\Puzzles.csproj": {
+    "C:\\Users\\Point\\Desktop\\CS2022\\Puzzles\\Puzzles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Point\\Desktop\\cs2022\\Puzzles\\Puzzles.csproj",
+        "projectUniqueName": "C:\\Users\\Point\\Desktop\\CS2022\\Puzzles\\Puzzles.csproj",
         "projectName": "Puzzles",
-        "projectPath": "C:\\Users\\Point\\Desktop\\cs2022\\Puzzles\\Puzzles.csproj",
+        "projectPath": "C:\\Users\\Point\\Desktop\\CS2022\\Puzzles\\Puzzles.csproj",
         "packagesPath": "C:\\Users\\Point\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Point\\Desktop\\cs2022\\Puzzles\\obj\\",
+        "outputPath": "C:\\Users\\Point\\Desktop\\CS2022\\Puzzles\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Point\\AppData\\Roaming\\NuGet\\NuGet.Config"
